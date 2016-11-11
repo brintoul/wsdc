@@ -1,1 +1,1 @@
-* wsdc means "Web Service Delay Client"
+# wsdc means "Web Service Delay Client"
